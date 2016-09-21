@@ -1,0 +1,147 @@
+/* CSS Document */
+#titlediv #title_news {
+    background-color: #fff;
+    font-size: 1.7em;
+    height: 1.7em;
+    line-height: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 3px 8px;
+    width: 100%;
+}
+#post-body.columns-2 #postbox-container {
+    float: right;
+    margin-right: -288px;
+    width: 280px;
+}
+.select_option_cat{
+	width:100%;
+}
+input.input_text{
+	width:100%;
+	background-color: #fff;
+    font-size: 1.7em;
+    height: 1.7em;
+    line-height: 100%;
+    margin: 0;
+    outline: 0 none;
+    padding: 3px 8px;
+}
+.mr20{
+	margin:20px 0;
+}
+.thumnail_max_img{
+	text-align:center;
+}
+.thumnail_max_img img{
+	max-width:280px;
+}
+.delete a{
+	color:#F00;
+}
+.select_category_post{
+	width:95% !important;
+}
+.table_category_post td{
+	
+}
+.form-field .group_cate_menu{
+	border:1px #663 solid;
+	padding:2%;
+	width:96%;
+	height:300px;
+	overflow:scroll;
+	background:#FFF;
+}
+.group_cate_menu table{
+	border:none;
+}
+.group_cate_menu table.bg_F2{
+	background:#F2F2F2;
+}
+
+.group_cate_menu table td.checkbox_fied{
+	width:40px;
+	text-align:center;
+}
+.group_cate_menu table td.name_checkbox{
+	text-align:left;
+	padding-left: 10px;
+	font-weight:bold;
+}
+.note{
+	color: #D8000C;
+	background-color: #FFBABA;
+	padding:20px;
+	margin:10px 0;
+	width:95%;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	font-weight:bold;
+}
+table.page tbody tr:hover ,table.table_category_post tbody tr:hover{
+
+}
+form#search_frm{
+	text-align:right;
+}
+td.checkbox_fied input[type="checkbox"]{
+	width:10px;
+}
+form#bor_form_action th.manage-column{
+	font-weight:bold;
+}
+.ptm-top{
+	margin-bottom:20px;
+}
+.ptm-bottom{
+	margin-top:20px;
+}
+.page_navi{
+	text-align:center;
+	display:block;
+}
+.page_navi ul{
+	float:right;
+}
+.page_navi ul li{
+	float:left;
+	padding:3px 7px;
+	border:1px #000 solid;
+	margin:0 2px;
+	background:#FFF;
+	font-size:14px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+.page_navi ul li.currentPage{
+	font-weight:bold;
+}
+.page_navi ul li.next_btn{
+	text-align:center;
+	width:25px;
+}
+.page_navi ul li a{
+	display:block;
+	text-decoration:none;
+	color:#030;
+}
+.page_navi ul li a:hover{
+	
+	text-decoration:underline;
+	color:#F00;
+	font-weight:bold;
+}
+form#search_frm #search_txt{
+	padding:5px !important;
+	width:300px;
+}
+.l{
+	float:left;
+}
+.r{
+	float:right;
+}
+.active{
+	background: #ffddbc;
+}
